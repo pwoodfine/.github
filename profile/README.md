@@ -23,7 +23,8 @@
 ## 🗺️ The Sovereign Ecosystem | El Ecosistema Soberano
 
 ### 🏭 The Factory (Engineering)
-* **[`pointsav-monorepo`](https://github.com/pointsav/pointsav-monorepo)**: The unified source tree governed by our **6-Tier Taxonomy**. Currently provisioning the `system-network-interface` for bare-metal VirtIO bridging.
+* **[`pointsav-monorepo`](https://github.com/pointsav/pointsav-monorepo)**: The unified source tree governed by our **6-Tier Taxonomy**.
+  * *Current Milestone: Foundation verified. Transitioning to Rust development for system security.*
 * **[`content-wiki-documentation`](https://github.com/pointsav/content-wiki-documentation)**: Architectural Decision Records (ADR), 3-Node Mesh topology, and hardware forensics.
 
 ### 🎨 The Interface (UX)
