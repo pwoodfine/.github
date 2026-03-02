@@ -14,7 +14,7 @@
 This profile governs the **Weighted Activity Randomizer (v1.3)**. Commit volume is distributed between contributors using a 25-75% randomized daily threshold to ensure organic collaboration.
 
 **Silo Mapping:**
-* `factory-pointsav`: Engineering Source [Monorepo, Docs, Design].
+* `factory-pointsav`: Engineering Source [Tier 0 Verified. Commencing Rust System Security].
 * `fleet-woodfine`: Operations Source [Deployment Manifests].
 * `sovereign-profiles`: Identity Source [.github Profiles].
 
