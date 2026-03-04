@@ -1,7 +1,7 @@
 <div align="center">
 
-# P. Woodfine | Engineering Lead
-### *Staging Environment for PointSav Digital Systems AG*
+# Peter M. Woodfine | Contributor
+### *Staging Environment for PointSav Digital Systems™*
 **System Architect | Rust | seL4**
 
 [ **View Production (PointSav)** ](https://github.com/pointsav)
