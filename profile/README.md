@@ -1,8 +1,8 @@
 <div align="center">
 
-# Peter M. Woodfine | Contributor
+# Peter M. Woodfine | System Architect
 ### *Staging Environment for PointSav Digital Systems™*
-**System Architect | Rust | seL4**
+**Capability-Based Manager | Rust | seL4**
 
 [ **View Production (PointSav)** ](https://github.com/pointsav)
 
@@ -10,18 +10,22 @@
 
 ---
 
-### ⚙️ Sovereign Workflow & Governance
-This profile governs the **Weighted Activity Randomizer (v1.3)**. Commit volume is distributed between contributors using a 25-75% randomized daily threshold to ensure organic collaboration.
+## ⚙️ Sovereign Workflow & Governance
+This identity governs the core engineering substrate of the PointSav Trustworthy System. Commits are pushed exclusively from the `NODE-IMAC-12` Foundry Host.
 
-**Silo Mapping:**
-* `factory-pointsav`: Engineering Source [Tier 0 Verified. Commencing Rust System Security].
-* `fleet-woodfine`: Operations Source [Deployment Manifests].
-* `sovereign-profiles`: Identity Source [.github Profiles].
+**The Weighted Activity Randomizer (v1.3)**
+Commit volume is distributed between contributors using a 25-75% randomized daily threshold to ensure organic collaboration and secure audit logging.
 
-### 🛠️ The Sovereign Ecosystem
-* **The Factory**: `pointsav-monorepo` and `pointsav-deployment-manifest`.
-* **The Library**: `content-wiki-documentation` (ADRs and Security Proofs).
-* **The Interface**: `pointsav-design-system` (Cinematic Tokens).
+## 🛠️ The Sovereign Ecosystem Matrix
+**The Factory (Engineering Source)**
+* **[`pointsav-monorepo`](https://github.com/pointsav/pointsav-monorepo)**: Tier 0 Verified engineering source. Active Rust System Security development.
+* **[`pointsav-deployment-manifest`](https://github.com/pointsav/pointsav-deployment-manifest)**: Internal production orchestration.
+
+**The Library (Institutional Knowledge)**
+* **[`content-wiki-documentation`](https://github.com/pointsav/content-wiki-documentation)**: System Architecture, ADRs, and Security Proofs.
+
+**The Interface (Visual Identity)**
+* **[`pointsav-design-system`](https://github.com/pointsav/pointsav-design-system)**: Cinematic Tokens and UI standardizations.
 
 ---
 *Verified Contributor to the Sovereign Stack. Adheres to Leapfrog 2030 standards.*
