@@ -26,10 +26,10 @@ This identity governs the core engineering substrate of the PointSav Trustworthy
 ## 🛠️ The Sovereign Ecosystem Matrix
 | Sector | Repository | Execution Role |
 | :--- | :--- | :--- |
-| **The Factory** | `pointsav-monorepo` | Tier 0 Verified engineering source. Active Rust System Security development. |
-| **The Factory** | `pointsav-deployment-manifest` | Internal production orchestration. |
-| **The Library** | `content-wiki-documentation` | System Architecture, ADRs, and Security Proofs. |
-| **The Interface** | `pointsav-design-system` | Cinematic Tokens and UI standardizations. |
+| **The Factory** | pointsav-monorepo | Tier 0 Verified engineering source. Active Rust System Security development. |
+| **The Factory** | pointsav-fleet-deployment | Internal production orchestration. |
+| **The Library** | content-wiki-documentation | System Architecture, ADRs, and Security Proofs. |
+| **The Interface** | pointsav-design-system | Cinematic Tokens and UI standardizations. |
 
 ---
 *Verified Contributor to the Sovereign Stack. Adheres to Leapfrog 2030 standards.*
