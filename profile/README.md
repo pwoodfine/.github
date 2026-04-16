@@ -1,36 +1,26 @@
 <div align="center">
 
 # Peter M. Woodfine
-### *Corporate Executive & Infrastructure Guide*
-
-<br/>
-
-**[ ➔ View the Engineering Blueprint ](https://github.com/pointsav/pointsav-monorepo)**
+### Chief Executive Officer, Woodfine Management Corp.
 
 </div>
 
 <br/>
 
-> [!WARNING]
-> **SOVEREIGN FRAMEWORK DECLARATION**
-> This profile represents an active corporate executive. It contains no live credentials or active network payloads.
+I am the CEO of Woodfine Management Corp. and the founding client of PointSav Digital Systems. Woodfine develops and manages environmentally certified commercial real estate across North America and Europe.
 
-| Architecture Tier | Component Role | Governance Anchor |
-| :--- | :--- | :--- |
-| 🟢 Active | System Executive | Sovereign Disclosure Standard |
+Rather than entrust decades of property records to a third-party cloud platform, I directed the decision to build our own — a formally verified, portable archive system where every building's complete history, from first permit to final sale, remains under Woodfine's permanent custody. The platform is documented in these repositories. The fleet manifest is the operational record of what we are deploying, commit by commit.
 
-## 📖 The Digital Transformation Record
-Peter Woodfine is a corporate executive at Woodfine Management Corp. To protect the firm's real estate assets, he directs the engineering of sovereign infrastructure. 
-
-This profile documents a real-world digital transformation at the executive level. He builds the PointSav OS to eliminate reliance on third-party cloud vendors. He proves that traditional executives can master bare-metal systems engineering. We enforce a zero-trust architecture because business survival requires absolute data ownership.
-
-## 🧭 Master Navigation Index
-* **[ ➔ The Engineering Blueprint ](https://github.com/pointsav/pointsav-monorepo)**
-* **[ ➔ The Operational Fleet ](https://github.com/woodfine/woodfine-fleet-deployment)**
-* **[ ➔ System Architecture Wiki ](https://github.com/pointsav/content-wiki-documentation)**
-* **[ ➔ Corporate Governance Wiki ](https://github.com/woodfine/content-wiki-corporate)**
-* **[ ➔ Real Estate Projects Wiki ](https://github.com/woodfine/content-wiki-projects)**
+Both organisations are subsidiaries of Woodfine Capital Projects Inc.
 
 ---
+
+**[→ PointSav Engineering Monorepo](https://github.com/pointsav/pointsav-monorepo)** &nbsp; The platform's source code and architecture.
+
+**[→ Woodfine Fleet Deployment](https://github.com/woodfine/woodfine-fleet-deployment)** &nbsp; The operational deployment manifest.
+
+**[→ woodfinegroup.com](https://woodfinegroup.com)**
+
+---
+
 *© 2026 Woodfine Management Corp.*
-*Public Architectural Blueprint. Governed by the Sovereign Data Protocol.*
